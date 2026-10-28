@@ -1,0 +1,236 @@
+{
+  "kw": 44,
+  "jahr": 2026,
+  "von": "2026-10-28",
+  "bis": "2026-11-03",
+  "erstellt": "2026-10-28",
+  "tage": [
+    {
+      "datum": "2026-10-28",
+      "tag": "Mi",
+      "wer": [
+        "Sascha"
+      ],
+      "rezeptId": "spaghetti-bolognese",
+      "gericht": "Spaghetti Bolognese",
+      "reste": false,
+      "hinweis": "Wunsch: was mit Hackfleisch"
+    },
+    {
+      "datum": "2026-10-29",
+      "tag": "Do",
+      "wer": [
+        "Sascha"
+      ],
+      "rezeptId": "linsendal-mit-naanbrot",
+      "gericht": "Linsendal mit Naanbrot",
+      "reste": false,
+      "hinweis": "1 Portion"
+    },
+    {
+      "datum": "2026-10-30",
+      "tag": "Fr",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "penne-mit-pilzen",
+      "gericht": "Penne mit Pilzen",
+      "reste": false,
+      "hinweis": null
+    },
+    {
+      "datum": "2026-10-31",
+      "tag": "Sa",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "flammkuchen-mit-fertigem-boden",
+      "gericht": "Flammkuchen mit fertigem Boden",
+      "reste": false,
+      "hinweis": "Kalender: Tante Onkel Tag – schnelles, flexibles Gericht"
+    },
+    {
+      "datum": "2026-11-01",
+      "tag": "So",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "gemueselasagne",
+      "gericht": "Gemüselasagne",
+      "reste": false,
+      "hinweis": "Doppelte Menge – Rest für Mo"
+    },
+    {
+      "datum": "2026-11-02",
+      "tag": "Mo",
+      "wer": [
+        "Anke"
+      ],
+      "rezeptId": "gemueselasagne",
+      "gericht": "Reste Gemüselasagne",
+      "reste": true,
+      "hinweis": "Aufwärmen"
+    },
+    {
+      "datum": "2026-11-03",
+      "tag": "Di",
+      "wer": [
+        "Anke"
+      ],
+      "rezeptId": "couscous-mit-halloumi",
+      "gericht": "Couscous mit Halloumi",
+      "reste": false,
+      "hinweis": "Schnell, 1 Portion"
+    }
+  ],
+  "einkaufsliste": [
+    {
+      "artikel": "Zwiebeln",
+      "menge": "5",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Knoblauch",
+      "menge": "1 Knolle",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Ingwer",
+      "menge": "1 kleines Stück",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Champignons",
+      "menge": "400 g",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Zucchini",
+      "menge": "3",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Paprika",
+      "menge": "3",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Karotten",
+      "menge": "4",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Lauch",
+      "menge": "1",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Zitrone",
+      "menge": "1",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Sahne",
+      "menge": "1 Becher",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Schmand",
+      "menge": "1 Becher",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Milch",
+      "menge": "500 ml",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Butter",
+      "menge": null,
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Parmesan",
+      "menge": "1 Stück",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Reibekäse",
+      "menge": "200 g",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Flammkuchenteig",
+      "menge": "1–2 Packungen",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Halloumi",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Hackfleisch",
+      "menge": "250 g",
+      "bereich": "Fleisch & Fisch"
+    },
+    {
+      "artikel": "Rote Linsen",
+      "menge": "1 kleine Packung",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Kokosmilch",
+      "menge": "1 kleine Dose",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Gehackte Tomaten",
+      "menge": "1 Dose",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Passierte Tomaten",
+      "menge": "3 × 500 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Spaghetti",
+      "menge": "1 Packung",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Penne",
+      "menge": "250 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Lasagneplatten",
+      "menge": "1 Packung",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Couscous",
+      "menge": "1 Packung",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Currypaste",
+      "menge": null,
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Naanbrot",
+      "menge": "1 Packung",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Mehl",
+      "menge": "falls leer",
+      "bereich": "Trockenwaren & Konserven"
+    }
+  ]
+}
