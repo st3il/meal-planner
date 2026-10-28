@@ -1,0 +1,841 @@
+{
+  "version": 1,
+  "aktualisiert": "2026-10-28",
+  "werte": {
+    "aufwand": [
+      "schnell",
+      "mittel",
+      "aufwendig"
+    ],
+    "ernaehrung": [
+      "vegetarisch",
+      "fisch",
+      "fleisch"
+    ]
+  },
+  "rezepte": [
+    {
+      "id": "spinatstrudel-mit-getrockneten-tomaten-und-walnuessen",
+      "name": "Spinatstrudel mit getrockneten Tomaten und Walnüssen",
+      "aufwand": "aufwendig",
+      "fuerEinePerson": false,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Strudel- oder Blätterteig",
+        "Blattspinat (TK)",
+        "getrocknete Tomaten",
+        "Walnüsse",
+        "Feta",
+        "Ei"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "penne-mit-pilzen",
+      "name": "Penne mit Pilzen",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Penne",
+        "Champignons",
+        "Zwiebel",
+        "Knoblauch",
+        "Sahne",
+        "Parmesan"
+      ],
+      "notiz": null,
+      "zuletztGegessen": "2026-10-30"
+    },
+    {
+      "id": "couscous-mit-halloumi",
+      "name": "Couscous mit Halloumi",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Couscous",
+        "Halloumi",
+        "Paprika",
+        "Zucchini",
+        "Zitrone"
+      ],
+      "notiz": null,
+      "zuletztGegessen": "2026-11-03"
+    },
+    {
+      "id": "linsendal-mit-naanbrot",
+      "name": "Linsendal mit Naanbrot",
+      "aufwand": "mittel",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "rote Linsen",
+        "Kokosmilch",
+        "gehackte Tomaten",
+        "Zwiebel",
+        "Knoblauch",
+        "Ingwer",
+        "Currypaste",
+        "Naanbrot"
+      ],
+      "notiz": null,
+      "zuletztGegessen": "2026-10-29"
+    },
+    {
+      "id": "tortelliniauflauf",
+      "name": "Tortelliniauflauf",
+      "aufwand": "mittel",
+      "fuerEinePerson": false,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Tortellini (Käse oder Spinat)",
+        "Sahne",
+        "passierte Tomaten",
+        "Reibekäse"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "zitronenspaghetti",
+      "name": "Zitronenspaghetti",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Spaghetti",
+        "Zitronen",
+        "Parmesan",
+        "Butter",
+        "Knoblauch"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "maultaschen",
+      "name": "Maultaschen",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "vegetarische Maultaschen",
+        "Zwiebel",
+        "Eier"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "gnocchi-mit-lachs-und-spinat",
+      "name": "Gnocchi mit Lachs und Spinat",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "fisch",
+      "zutaten": [
+        "Gnocchi",
+        "Lachs",
+        "Blattspinat",
+        "Sahne",
+        "Knoblauch"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "risotto",
+      "name": "Risotto",
+      "aufwand": "mittel",
+      "fuerEinePerson": false,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Risottoreis",
+        "Weißwein",
+        "Gemüsebrühe",
+        "Zwiebel",
+        "Parmesan",
+        "Butter"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "lasagne",
+      "name": "Lasagne",
+      "aufwand": "aufwendig",
+      "fuerEinePerson": false,
+      "ernaehrung": "fleisch",
+      "zutaten": [
+        "Lasagneplatten",
+        "Hackfleisch",
+        "passierte Tomaten",
+        "Milch",
+        "Mehl",
+        "Butter",
+        "Reibekäse"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "gemueselasagne",
+      "name": "Gemüselasagne",
+      "aufwand": "aufwendig",
+      "fuerEinePerson": false,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Lasagneplatten",
+        "Zucchini",
+        "Paprika",
+        "Karotten",
+        "passierte Tomaten",
+        "Milch",
+        "Reibekäse"
+      ],
+      "notiz": null,
+      "zuletztGegessen": "2026-11-01"
+    },
+    {
+      "id": "spinat-lachs-lasagne",
+      "name": "Spinat-Lachs-Lasagne",
+      "aufwand": "aufwendig",
+      "fuerEinePerson": false,
+      "ernaehrung": "fisch",
+      "zutaten": [
+        "Lasagneplatten",
+        "Lachs",
+        "Blattspinat",
+        "Sahne",
+        "Reibekäse"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "quiche",
+      "name": "Quiche",
+      "aufwand": "aufwendig",
+      "fuerEinePerson": false,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Mürbeteig",
+        "Eier",
+        "Sahne",
+        "Lauch oder Gemüse",
+        "Käse"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "daetscher",
+      "name": "Dätscher",
+      "aufwand": "mittel",
+      "fuerEinePerson": false,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Mehl",
+        "Hefe",
+        "Schmand",
+        "Zwiebeln",
+        "Lauch"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "spaetzle-mit-pilzrahmsauce",
+      "name": "Spätzle mit Pilzrahmsauce",
+      "aufwand": "mittel",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Spätzle",
+        "Champignons",
+        "Zwiebel",
+        "Sahne",
+        "Petersilie"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "curry-mit-reis",
+      "name": "Curry mit Reis",
+      "aufwand": "mittel",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Reis",
+        "Kokosmilch",
+        "Currypaste",
+        "Gemüse nach Wahl"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "indisch-mit-erbsen-und-pilzen",
+      "name": "Indisch mit Erbsen und Pilzen",
+      "aufwand": "mittel",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Reis",
+        "Erbsen (TK)",
+        "Champignons",
+        "Kokosmilch",
+        "Garam Masala"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "indisch-mit-karotten-paprika-und-cashewnuessen",
+      "name": "Indisch mit Karotten, Paprika und Cashewnüssen",
+      "aufwand": "mittel",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Reis",
+        "Karotten",
+        "Paprika",
+        "Cashewnüsse",
+        "Kokosmilch",
+        "Currypulver"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "ofengemuese",
+      "name": "Ofengemüse",
+      "aufwand": "mittel",
+      "fuerEinePerson": false,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Kartoffeln",
+        "Paprika",
+        "Zucchini",
+        "Karotten",
+        "Zwiebeln",
+        "Feta",
+        "Kräuterquark"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "vegetarisches-huehnerfrikassee",
+      "name": "Vegetarisches Hühnerfrikassee",
+      "aufwand": "mittel",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "veganes Hähnchen",
+        "Erbsen & Möhren (TK)",
+        "Champignons",
+        "Spargel (Glas)",
+        "Sahne",
+        "Reis"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "schupfnudeln-mit-kraut",
+      "name": "Schupfnudeln mit Kraut",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Schupfnudeln",
+        "Sauerkraut",
+        "Zwiebel"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "linsen-mit-spaetzle",
+      "name": "Linsen mit Spätzle",
+      "aufwand": "mittel",
+      "fuerEinePerson": false,
+      "ernaehrung": "fleisch",
+      "zutaten": [
+        "Tellerlinsen",
+        "Spätzle",
+        "Saitenwürstle",
+        "Suppengemüse"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "spaghetti-bolognese",
+      "name": "Spaghetti Bolognese",
+      "aufwand": "mittel",
+      "fuerEinePerson": false,
+      "ernaehrung": "fleisch",
+      "zutaten": [
+        "Spaghetti",
+        "Hackfleisch",
+        "passierte Tomaten",
+        "Zwiebel",
+        "Karotte",
+        "Parmesan"
+      ],
+      "notiz": null,
+      "zuletztGegessen": "2026-10-28"
+    },
+    {
+      "id": "kaesespaetzle",
+      "name": "Käsespätzle",
+      "aufwand": "mittel",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Spätzle",
+        "Bergkäse",
+        "Zwiebeln"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "reis-mit-granatapfel-walnuessen-minze-und-oliven",
+      "name": "Reis mit Granatapfel, Walnüssen, Minze und Oliven",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Reis",
+        "Granatapfel",
+        "Walnüsse",
+        "frische Minze",
+        "Oliven",
+        "Zitrone"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "pizza",
+      "name": "Pizza",
+      "aufwand": "mittel",
+      "fuerEinePerson": false,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Pizzateig",
+        "passierte Tomaten",
+        "Mozzarella",
+        "Belag nach Wahl"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "pfannkuchen",
+      "name": "Pfannkuchen",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Mehl",
+        "Eier",
+        "Milch",
+        "Apfelmus"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "dampfnudeln",
+      "name": "Dampfnudeln",
+      "aufwand": "aufwendig",
+      "fuerEinePerson": false,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Mehl",
+        "Hefe",
+        "Milch",
+        "Butter",
+        "Zucker",
+        "Vanillesoße"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "gebratener-reis",
+      "name": "Gebratener Reis",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Reis",
+        "Eier",
+        "Erbsen & Möhren (TK)",
+        "Frühlingszwiebeln",
+        "Sojasoße"
+      ],
+      "notiz": "Gut mit Reis vom Vortag",
+      "zuletztGegessen": null
+    },
+    {
+      "id": "bratkartoffeln",
+      "name": "Bratkartoffeln",
+      "aufwand": "mittel",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Kartoffeln",
+        "Zwiebeln",
+        "Eier"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "spaghetti-mit-garnelen",
+      "name": "Spaghetti mit Garnelen",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "fisch",
+      "zutaten": [
+        "Spaghetti",
+        "Garnelen",
+        "Knoblauch",
+        "Kirschtomaten",
+        "Chili"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "burger-mit-pommes",
+      "name": "Burger mit Pommes",
+      "aufwand": "mittel",
+      "fuerEinePerson": false,
+      "ernaehrung": "fleisch",
+      "zutaten": [
+        "Burgerbrötchen",
+        "Patties",
+        "Salat",
+        "Tomate",
+        "Käse",
+        "Pommes (TK)"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "fischstaebchen-mit-beilage",
+      "name": "Fischstäbchen mit Beilage",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "fisch",
+      "zutaten": [
+        "Fischstäbchen"
+      ],
+      "notiz": "Beilage noch offen",
+      "zuletztGegessen": null
+    },
+    {
+      "id": "reichhaltiger-salat",
+      "name": "Reichhaltiger Salat",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Blattsalat",
+        "Gemüse",
+        "Feta oder Eier",
+        "Nüsse",
+        "Brot"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "kaesesuppe",
+      "name": "Käsesuppe",
+      "aufwand": "mittel",
+      "fuerEinePerson": false,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Schmelzkäse",
+        "Lauch",
+        "Gemüsebrühe"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "glasnudelsalat",
+      "name": "Glasnudelsalat",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Glasnudeln",
+        "Karotten",
+        "Gurke",
+        "Paprika",
+        "Sojasoße",
+        "Limette",
+        "Erdnüsse"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "nudeln-mit-pesto",
+      "name": "Nudeln mit Pesto",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Nudeln",
+        "Pesto",
+        "Parmesan"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "gnocchi",
+      "name": "Gnocchi",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Gnocchi",
+        "passierte Tomaten",
+        "Mozzarella"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "tortellini-mit-sahnesauce",
+      "name": "Tortellini mit Sahnesauce",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Tortellini (Käse oder Spinat)",
+        "Sahne",
+        "Erbsen",
+        "Parmesan"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "gemueseomelette",
+      "name": "Gemüseomelette",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Eier",
+        "Paprika",
+        "Tomaten",
+        "Zwiebel",
+        "Käse"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "frittata-mit-gemuese",
+      "name": "Frittata mit Gemüse",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Eier",
+        "Gemüse nach Wahl",
+        "Käse"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "flammkuchen-mit-fertigem-boden",
+      "name": "Flammkuchen mit fertigem Boden",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Flammkuchenteig",
+        "Schmand",
+        "Zwiebeln",
+        "Lauch"
+      ],
+      "notiz": null,
+      "zuletztGegessen": "2026-10-31"
+    },
+    {
+      "id": "tiroler-groestl",
+      "name": "Tiroler Gröstl",
+      "aufwand": "mittel",
+      "fuerEinePerson": true,
+      "ernaehrung": "fleisch",
+      "zutaten": [
+        "Kartoffeln",
+        "Zwiebeln",
+        "Speck",
+        "Eier"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "couscoussalat",
+      "name": "Couscoussalat",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Couscous",
+        "Gurke",
+        "Tomaten",
+        "Paprika",
+        "Petersilie",
+        "Zitrone"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "hotdogs",
+      "name": "Hotdogs",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "fleisch",
+      "zutaten": [
+        "Hotdog-Brötchen",
+        "Würstchen",
+        "Röstzwiebeln",
+        "Gewürzgurken",
+        "Senf",
+        "Ketchup"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "pizzasuppe",
+      "name": "Pizzasuppe",
+      "aufwand": "mittel",
+      "fuerEinePerson": false,
+      "ernaehrung": "fleisch",
+      "zutaten": [
+        "Hackfleisch",
+        "Paprika",
+        "Champignons",
+        "Zwiebeln",
+        "gehackte Tomaten",
+        "Schmelzkäse",
+        "Sahne"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "gebratene-nudeln-mit-ei",
+      "name": "Gebratene Nudeln mit Ei",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Mie-Nudeln",
+        "Eier",
+        "Gemüse",
+        "Sojasoße"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "salat-mit-rote-bete-spiralen",
+      "name": "Salat mit Rote-Bete-Spiralen",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Rote Bete",
+        "Blattsalat",
+        "Feta",
+        "Walnüsse"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "smashed-potatoes-mit-joghurt-kraeuter-dip",
+      "name": "Smashed Potatoes mit Joghurt-Kräuter-Dip",
+      "aufwand": "mittel",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "kleine Kartoffeln",
+        "Joghurt",
+        "Kräuter",
+        "Knoblauch"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "wraps-mit-falafel",
+      "name": "Wraps mit Falafel",
+      "aufwand": "schnell",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Wraps",
+        "Falafel",
+        "Hummus",
+        "Salat",
+        "Tomate",
+        "Gurke",
+        "Joghurt"
+      ],
+      "notiz": null,
+      "zuletztGegessen": null
+    },
+    {
+      "id": "crispy-gnocchi-salat",
+      "name": "Crispy Gnocchi Salat",
+      "aufwand": "mittel",
+      "fuerEinePerson": true,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Gnocchi"
+      ],
+      "notiz": "Rezept auf Instagram, Zutaten bitte ergänzen",
+      "zuletztGegessen": null
+    },
+    {
+      "id": "dinnete-schwaebische-pizza",
+      "name": "Dinnete (Schwäbische Pizza)",
+      "aufwand": "mittel",
+      "fuerEinePerson": false,
+      "ernaehrung": "vegetarisch",
+      "zutaten": [
+        "Mehl",
+        "Hefe",
+        "Schmand",
+        "Zwiebeln",
+        "Lauch"
+      ],
+      "notiz": "Rezept: einfachbacken.de – klassisch mit Speck, hier vegetarisch",
+      "zuletztGegessen": null
+    }
+  ]
+}
