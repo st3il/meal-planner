@@ -22,10 +22,10 @@
       "wer": [
         "Sascha"
       ],
-      "rezeptId": "linsendal-mit-naanbrot",
-      "gericht": "Linsendal mit Naanbrot",
-      "reste": false,
-      "hinweis": "1 Portion"
+      "rezeptId": "spaghetti-bolognese",
+      "gericht": "Reste Spaghetti Bolognese",
+      "reste": true,
+      "hinweis": null
     },
     {
       "datum": "2026-10-30",
@@ -34,8 +34,8 @@
         "Sascha",
         "Anke"
       ],
-      "rezeptId": "penne-mit-pilzen",
-      "gericht": "Penne mit Pilzen",
+      "rezeptId": "linsendal-mit-naanbrot",
+      "gericht": "Linsendal mit Naanbrot/Reis",
       "reste": false,
       "hinweis": null
     },
@@ -46,10 +46,10 @@
         "Sascha",
         "Anke"
       ],
-      "rezeptId": "flammkuchen-mit-fertigem-boden",
-      "gericht": "Flammkuchen mit fertigem Boden",
-      "reste": false,
-      "hinweis": "Kalender: Tante Onkel Tag – schnelles, flexibles Gericht"
+      "rezeptId": "linsendal-mit-naanbrot",
+      "gericht": "Reste Linsendal mit Naanbrot/Reis",
+      "reste": true,
+      "hinweis": null
     },
     {
       "datum": "2026-11-01",
