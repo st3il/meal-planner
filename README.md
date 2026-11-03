@@ -1,11 +1,13 @@
 # meal-planner
 
 Mittagessen-Wochenplan. Jeden Dienstag um 6:45 Uhr wird automatisch der Plan
-für Mittwoch bis Dienstag erstellt und hier gepusht.
+für Mittwoch bis Dienstag erstellt und hier gepusht. Die Regeln dafür stehen in
+`CLAUDE.md` – dort anpassen, nicht im Prompt der geplanten Aufgabe.
 
 ## Aufbau
 
 ```
+CLAUDE.md                 Anweisungen für die geplante Aufgabe
 rezepte.json              alle Rezepte (Quelle der Wahrheit)
 <Jahr>/<KW>/plan.json     Wochenplan, KW = ISO-Kalenderwoche des Mittwochs
 <Jahr>/<KW>/wuensche.json Wünsche für diese Woche (optional)
