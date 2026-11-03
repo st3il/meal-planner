@@ -1,0 +1,211 @@
+{
+  "kw": 45,
+  "jahr": 2026,
+  "von": "2026-11-04",
+  "bis": "2026-11-10",
+  "erstellt": "2026-11-03",
+  "tage": [
+    {
+      "datum": "2026-11-04",
+      "tag": "Mi",
+      "wer": [
+        "Sascha"
+      ],
+      "rezeptId": "indisch-mit-karotten-paprika-und-cashewnuessen",
+      "gericht": "Indisch mit Karotten, Paprika und Cashewnüssen",
+      "reste": false,
+      "hinweis": "Doppelte Menge – Rest für Do"
+    },
+    {
+      "datum": "2026-11-05",
+      "tag": "Do",
+      "wer": [
+        "Sascha"
+      ],
+      "rezeptId": "indisch-mit-karotten-paprika-und-cashewnuessen",
+      "gericht": "Reste Indisch mit Karotten, Paprika und Cashewnüssen",
+      "reste": true,
+      "hinweis": "Aufwärmen"
+    },
+    {
+      "datum": "2026-11-06",
+      "tag": "Fr",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "pizza",
+      "gericht": "Pizza",
+      "reste": false,
+      "hinweis": null
+    },
+    {
+      "datum": "2026-11-07",
+      "tag": "Sa",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "spinatstrudel-mit-getrockneten-tomaten-und-walnuessen",
+      "gericht": "Spinatstrudel mit getrockneten Tomaten und Walnüssen",
+      "reste": false,
+      "hinweis": "Kalender: ganztägig \"Epiq Probefahrt\" – kein Hinderungsgrund erkannt"
+    },
+    {
+      "datum": "2026-11-08",
+      "tag": "So",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "tortelliniauflauf",
+      "gericht": "Tortelliniauflauf",
+      "reste": false,
+      "hinweis": "Doppelte Menge – Rest für Mo. Kalender: ganztägig \"80. Geburtstag Traudel\" – falls Mittagessen auswärts, entfällt das Gericht (Auflauf lässt sich auch am Mo/Di essen)"
+    },
+    {
+      "datum": "2026-11-09",
+      "tag": "Mo",
+      "wer": [
+        "Anke"
+      ],
+      "rezeptId": "tortelliniauflauf",
+      "gericht": "Reste Tortelliniauflauf",
+      "reste": true,
+      "hinweis": "Aufwärmen"
+    },
+    {
+      "datum": "2026-11-10",
+      "tag": "Di",
+      "wer": [
+        "Anke"
+      ],
+      "rezeptId": "wraps-mit-falafel",
+      "gericht": "Wraps mit Falafel",
+      "reste": false,
+      "hinweis": "Schnell, 1 Portion"
+    }
+  ],
+  "einkaufsliste": [
+    {
+      "artikel": "Karotten",
+      "menge": "3",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Paprika",
+      "menge": "3",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Salat",
+      "menge": "1 Kopf",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Tomaten",
+      "menge": "2",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Gurke",
+      "menge": "1",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Sahne",
+      "menge": "1 Becher",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Reibekäse",
+      "menge": "200 g",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Mozzarella",
+      "menge": "2 Kugeln",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Feta",
+      "menge": "200 g",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Eier",
+      "menge": "1 kleine Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Pizzateig",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Strudel- oder Blätterteig",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Tortellini",
+      "menge": "2 × 250 g",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Falafel",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Hummus",
+      "menge": "1 Becher",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Joghurt",
+      "menge": "1 Becher",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Blattspinat (TK)",
+      "menge": "450 g",
+      "bereich": "TK"
+    },
+    {
+      "artikel": "Reis",
+      "menge": "1 Packung",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Cashewnüsse",
+      "menge": "50 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Kokosmilch",
+      "menge": "1 Dose",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Passierte Tomaten",
+      "menge": "2 × 500 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Getrocknete Tomaten",
+      "menge": "1 Glas",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Walnüsse",
+      "menge": "100 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Wraps",
+      "menge": "1 Packung",
+      "bereich": "Trockenwaren & Konserven"
+    }
+  ]
+}

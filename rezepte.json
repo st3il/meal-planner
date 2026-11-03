@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "aktualisiert": "2026-10-28",
+  "aktualisiert": "2026-11-03",
   "werte": {
     "aufwand": [
       "schnell",
@@ -29,7 +29,7 @@
         "Ei"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-07"
     },
     {
       "id": "penne-mit-pilzen",
@@ -96,7 +96,7 @@
         "Reibekäse"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-08"
     },
     {
       "id": "zitronenspaghetti",
@@ -307,7 +307,7 @@
         "Currypulver"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-04"
     },
     {
       "id": "ofengemuese",
@@ -434,7 +434,7 @@
         "Belag nach Wahl"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-06"
     },
     {
       "id": "pfannkuchen",
@@ -807,7 +807,7 @@
         "Joghurt"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-10"
     },
     {
       "id": "crispy-gnocchi-salat",
