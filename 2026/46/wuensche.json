@@ -2,5 +2,12 @@
   "kw": 46,
   "jahr": 2026,
   "wuensche": [],
-  "zuHause": []
+  "zuHause": [
+    {
+      "tag": "So",
+      "datum": null,
+      "wer": [],
+      "grund": "unterwegs (Familientreffen Albrecht)"
+    }
+  ]
 }
