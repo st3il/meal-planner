@@ -11,10 +11,10 @@
       "wer": [
         "Sascha"
       ],
-      "rezeptId": "indisch-mit-karotten-paprika-und-cashewnuessen",
-      "gericht": "Indisch mit Karotten, Paprika und Cashewnüssen",
+      "rezeptId": "pizza",
+      "gericht": "Pizza",
       "reste": false,
-      "hinweis": "Doppelte Menge – Rest für Do"
+      "hinweis": "Wunsch: Pizza"
     },
     {
       "datum": "2026-11-05",
@@ -22,10 +22,10 @@
       "wer": [
         "Sascha"
       ],
-      "rezeptId": "indisch-mit-karotten-paprika-und-cashewnuessen",
-      "gericht": "Reste Indisch mit Karotten, Paprika und Cashewnüssen",
-      "reste": true,
-      "hinweis": "Aufwärmen"
+      "rezeptId": "schupfnudeln-mit-kraut",
+      "gericht": "Schupfnudeln mit Kraut",
+      "reste": false,
+      "hinweis": "Schnell, 1 Portion (Homeoffice)"
     },
     {
       "datum": "2026-11-06",
@@ -33,8 +33,8 @@
       "wer": [
         "Anke"
       ],
-      "rezeptId": "gnocchi",
-      "gericht": "Gnocchi",
+      "rezeptId": "gemueseomelette",
+      "gericht": "Gemüseomelette",
       "reste": false,
       "hinweis": "Ausnahme: Sascha im Büro – schnell, 1 Portion"
     },
@@ -62,54 +62,58 @@
       "wer": [
         "Anke"
       ],
-      "rezeptId": "wraps-mit-falafel",
-      "gericht": "Wraps mit Falafel",
+      "rezeptId": "spaetzle-mit-pilzrahmsauce",
+      "gericht": "Spätzle mit Pilzrahmsauce",
       "reste": false,
-      "hinweis": "Schnell, 1 Portion"
+      "hinweis": "1 Portion"
     },
     {
       "datum": "2026-11-10",
       "tag": "Di",
       "wer": [
-        "Sascha",
         "Anke"
       ],
-      "rezeptId": "pizza",
-      "gericht": "Pizza",
+      "rezeptId": "salat-mit-rote-bete-spiralen",
+      "gericht": "Salat mit Rote-Bete-Spiralen",
       "reste": false,
-      "hinweis": "Ausnahme: Sascha zu Hause statt im Büro"
+      "hinweis": "Schnell, 1 Portion"
     }
   ],
   "einkaufsliste": [
     {
-      "artikel": "Karotten",
-      "menge": "3",
-      "bereich": "Obst & Gemüse"
-    },
-    {
       "artikel": "Paprika",
-      "menge": "3",
-      "bereich": "Obst & Gemüse"
-    },
-    {
-      "artikel": "Salat",
-      "menge": "1 Kopf",
-      "bereich": "Obst & Gemüse"
-    },
-    {
-      "artikel": "Tomaten",
       "menge": "2",
       "bereich": "Obst & Gemüse"
     },
     {
-      "artikel": "Gurke",
+      "artikel": "Tomaten",
       "menge": "1",
       "bereich": "Obst & Gemüse"
     },
     {
-      "artikel": "Mozzarella",
-      "menge": "3 Kugeln",
-      "bereich": "Kühlregal"
+      "artikel": "Zwiebeln",
+      "menge": "3",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Champignons",
+      "menge": "250 g",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Blattsalat",
+      "menge": "1 Packung",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Petersilie",
+      "menge": "1 Bund",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Rote Bete (vorgegart)",
+      "menge": "1 Packung",
+      "bereich": "Obst & Gemüse"
     },
     {
       "artikel": "Pizzateig",
@@ -117,48 +121,53 @@
       "bereich": "Kühlregal"
     },
     {
-      "artikel": "Gnocchi",
+      "artikel": "Mozzarella",
+      "menge": "2 Kugeln",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Eier",
+      "menge": "4",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Reibekäse",
+      "menge": "1 kleine Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Schupfnudeln",
       "menge": "1 Packung",
       "bereich": "Kühlregal"
     },
     {
-      "artikel": "Falafel",
+      "artikel": "Spätzle",
       "menge": "1 Packung",
       "bereich": "Kühlregal"
     },
     {
-      "artikel": "Hummus",
+      "artikel": "Sahne",
       "menge": "1 Becher",
       "bereich": "Kühlregal"
     },
     {
-      "artikel": "Joghurt",
-      "menge": "1 Becher",
+      "artikel": "Feta",
+      "menge": "1 Packung",
       "bereich": "Kühlregal"
     },
     {
-      "artikel": "Reis",
+      "artikel": "Sauerkraut",
       "menge": "1 Packung",
-      "bereich": "Trockenwaren & Konserven"
-    },
-    {
-      "artikel": "Cashewnüsse",
-      "menge": "50 g",
-      "bereich": "Trockenwaren & Konserven"
-    },
-    {
-      "artikel": "Kokosmilch",
-      "menge": "1 Dose",
       "bereich": "Trockenwaren & Konserven"
     },
     {
       "artikel": "Passierte Tomaten",
-      "menge": "2 × 500 g",
+      "menge": "1 × 500 g",
       "bereich": "Trockenwaren & Konserven"
     },
     {
-      "artikel": "Wraps",
-      "menge": "1 Packung",
+      "artikel": "Walnüsse",
+      "menge": "50 g",
       "bereich": "Trockenwaren & Konserven"
     }
   ]
