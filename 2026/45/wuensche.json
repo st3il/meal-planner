@@ -1,5 +1,35 @@
 {
   "kw": 45,
   "jahr": 2026,
-  "wuensche": []
+  "wuensche": [
+    {
+      "tag": "Mi",
+      "datum": null,
+      "rezeptId": null,
+      "wunsch": "Pizza",
+      "wer": "Sascha"
+    }
+  ],
+  "zuHause": [
+    {
+      "tag": "Fr",
+      "datum": null,
+      "wer": [
+        "Anke"
+      ],
+      "grund": "Sascha im Büro"
+    },
+    {
+      "tag": "Sa",
+      "datum": null,
+      "wer": [],
+      "grund": "unterwegs (Epiq Probefahrt)"
+    },
+    {
+      "tag": "So",
+      "datum": null,
+      "wer": [],
+      "grund": "unterwegs (80. Geburtstag Traudel)"
+    }
+  ]
 }

@@ -29,7 +29,7 @@
         "Ei"
       ],
       "notiz": null,
-      "zuletztGegessen": "2026-11-07"
+      "zuletztGegessen": null
     },
     {
       "id": "penne-mit-pilzen",
@@ -96,7 +96,7 @@
         "Reibekäse"
       ],
       "notiz": null,
-      "zuletztGegessen": "2026-11-08"
+      "zuletztGegessen": null
     },
     {
       "id": "zitronenspaghetti",
@@ -434,7 +434,7 @@
         "Belag nach Wahl"
       ],
       "notiz": null,
-      "zuletztGegessen": "2026-11-06"
+      "zuletztGegessen": "2026-11-10"
     },
     {
       "id": "pfannkuchen",
@@ -617,7 +617,7 @@
         "Mozzarella"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-06"
     },
     {
       "id": "tortellini-mit-sahnesauce",
@@ -807,7 +807,7 @@
         "Joghurt"
       ],
       "notiz": null,
-      "zuletztGegessen": "2026-11-10"
+      "zuletztGegessen": "2026-11-09"
     },
     {
       "id": "crispy-gnocchi-salat",
