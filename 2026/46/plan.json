@@ -1,0 +1,170 @@
+{
+  "kw": 46,
+  "jahr": 2026,
+  "von": "2026-11-11",
+  "bis": "2026-11-17",
+  "erstellt": "2026-11-10",
+  "tage": [
+    {
+      "datum": "2026-11-11",
+      "tag": "Mi",
+      "wer": [
+        "Sascha"
+      ],
+      "rezeptId": "tortelliniauflauf",
+      "gericht": "Tortelliniauflauf",
+      "reste": false,
+      "hinweis": "Doppelte Menge – Rest für Do"
+    },
+    {
+      "datum": "2026-11-12",
+      "tag": "Do",
+      "wer": [
+        "Sascha"
+      ],
+      "rezeptId": "tortelliniauflauf",
+      "gericht": "Reste Tortelliniauflauf",
+      "reste": true,
+      "hinweis": "Aufwärmen"
+    },
+    {
+      "datum": "2026-11-13",
+      "tag": "Fr",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "daetscher",
+      "gericht": "Dätscher",
+      "reste": false,
+      "hinweis": null
+    },
+    {
+      "datum": "2026-11-14",
+      "tag": "Sa",
+      "wer": [],
+      "rezeptId": null,
+      "gericht": null,
+      "reste": false,
+      "hinweis": "Kein Essen – Besuch bei der Uroma (Kalender: 10:30–16:00)"
+    },
+    {
+      "datum": "2026-11-15",
+      "tag": "So",
+      "wer": [],
+      "rezeptId": null,
+      "gericht": null,
+      "reste": false,
+      "hinweis": "Kein Essen – unterwegs (Familientreffen Albrecht)"
+    },
+    {
+      "datum": "2026-11-16",
+      "tag": "Mo",
+      "wer": [
+        "Anke"
+      ],
+      "rezeptId": "spaghetti-mit-garnelen",
+      "gericht": "Spaghetti mit Garnelen",
+      "reste": false,
+      "hinweis": "Schnell, 1 Portion"
+    },
+    {
+      "datum": "2026-11-17",
+      "tag": "Di",
+      "wer": [
+        "Anke"
+      ],
+      "rezeptId": "frittata-mit-gemuese",
+      "gericht": "Frittata mit Gemüse",
+      "reste": false,
+      "hinweis": "Schnell, 1 Portion"
+    }
+  ],
+  "einkaufsliste": [
+    {
+      "artikel": "Zwiebeln",
+      "menge": "3",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Lauch",
+      "menge": "2",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Knoblauch",
+      "menge": "1 Knolle",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Kirschtomaten",
+      "menge": "200 g",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Chili",
+      "menge": "1",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Paprika",
+      "menge": "1",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Zucchini",
+      "menge": "1",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Tortellini (Käse oder Spinat)",
+      "menge": "500 g",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Sahne",
+      "menge": "1 Becher",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Schmand",
+      "menge": "1 Becher",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Reibekäse",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Eier",
+      "menge": "4",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Garnelen",
+      "menge": "150 g",
+      "bereich": "TK"
+    },
+    {
+      "artikel": "Passierte Tomaten",
+      "menge": "1 × 500 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Spaghetti",
+      "menge": "250 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Trockenhefe",
+      "menge": "1 Päckchen",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Mehl",
+      "menge": "falls leer",
+      "bereich": "Trockenwaren & Konserven"
+    }
+  ]
+}

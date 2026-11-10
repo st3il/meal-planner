@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "aktualisiert": "2026-11-03",
+  "aktualisiert": "2026-11-10",
   "werte": {
     "aufwand": [
       "schnell",
@@ -96,7 +96,7 @@
         "Reibekäse"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-11"
     },
     {
       "id": "zitronenspaghetti",
@@ -243,7 +243,7 @@
         "Lauch"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-13"
     },
     {
       "id": "spaetzle-mit-pilzrahmsauce",
@@ -512,7 +512,7 @@
         "Chili"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-16"
     },
     {
       "id": "burger-mit-pommes",
@@ -662,7 +662,7 @@
         "Käse"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-17"
     },
     {
       "id": "flammkuchen-mit-fertigem-boden",
