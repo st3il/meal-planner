@@ -1,0 +1,236 @@
+{
+  "kw": 47,
+  "jahr": 2026,
+  "von": "2026-11-18",
+  "bis": "2026-11-24",
+  "erstellt": "2026-11-17",
+  "tage": [
+    {
+      "datum": "2026-11-18",
+      "tag": "Mi",
+      "wer": [
+        "Sascha"
+      ],
+      "rezeptId": "linsen-mit-spaetzle",
+      "gericht": "Linsen mit Spätzle",
+      "reste": false,
+      "hinweis": "Fleisch am Mittwoch (Saitenwürstle), 1 Portion; Termin Kindi erst 14:00"
+    },
+    {
+      "datum": "2026-11-19",
+      "tag": "Do",
+      "wer": [
+        "Sascha"
+      ],
+      "rezeptId": "pfannkuchen",
+      "gericht": "Pfannkuchen",
+      "reste": false,
+      "hinweis": "Schnell, 1 Portion (Homeoffice); keine Reste, da Mittwoch Fleisch"
+    },
+    {
+      "datum": "2026-11-20",
+      "tag": "Fr",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "gnocchi-mit-lachs-und-spinat",
+      "gericht": "Gnocchi mit Lachs und Spinat",
+      "reste": false,
+      "hinweis": null
+    },
+    {
+      "datum": "2026-11-21",
+      "tag": "Sa",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "quiche",
+      "gericht": "Quiche",
+      "reste": false,
+      "hinweis": "Familie Buck kommt erst um 15:00"
+    },
+    {
+      "datum": "2026-11-22",
+      "tag": "So",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "curry-mit-reis",
+      "gericht": "Curry mit Reis",
+      "reste": false,
+      "hinweis": "Doppelte Menge – Rest für Mo; spätes Mittagessen nach Mtv Sportsday (11:00–12:30)"
+    },
+    {
+      "datum": "2026-11-23",
+      "tag": "Mo",
+      "wer": [
+        "Anke"
+      ],
+      "rezeptId": "curry-mit-reis",
+      "gericht": "Reste Curry mit Reis",
+      "reste": true,
+      "hinweis": "Aufwärmen"
+    },
+    {
+      "datum": "2026-11-24",
+      "tag": "Di",
+      "wer": [
+        "Anke"
+      ],
+      "rezeptId": "reichhaltiger-salat",
+      "gericht": "Reichhaltiger Salat",
+      "reste": false,
+      "hinweis": "Schnell, 1 Portion"
+    }
+  ],
+  "einkaufsliste": [
+    {
+      "artikel": "Suppengemüse",
+      "menge": "1 Bund",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Zwiebeln",
+      "menge": "2",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Knoblauch",
+      "menge": "1 Knolle",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Blattspinat",
+      "menge": "250 g",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Lauch",
+      "menge": "2",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Paprika",
+      "menge": "2",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Zucchini",
+      "menge": "1",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Karotten",
+      "menge": "3",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Blattsalat",
+      "menge": "1 Packung",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Gurke",
+      "menge": "1",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Tomaten",
+      "menge": "2",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Spätzle",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Gnocchi",
+      "menge": "500 g",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Mürbeteig",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Eier",
+      "menge": "6",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Milch",
+      "menge": "1 l",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Sahne",
+      "menge": "2 Becher",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Reibekäse",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Feta",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Saitenwürstle",
+      "menge": "1 Paar",
+      "bereich": "Fleisch & Fisch"
+    },
+    {
+      "artikel": "Lachs",
+      "menge": "250 g",
+      "bereich": "Fleisch & Fisch"
+    },
+    {
+      "artikel": "Tellerlinsen",
+      "menge": "150 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Apfelmus",
+      "menge": "1 Glas",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Reis",
+      "menge": "250 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Kokosmilch",
+      "menge": "2 Dosen",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Currypaste",
+      "menge": "1 Glas",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Walnüsse",
+      "menge": "50 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Mehl",
+      "menge": "falls leer",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Brot",
+      "menge": "1 kleines Brot",
+      "bereich": "Sonstiges"
+    }
+  ]
+}

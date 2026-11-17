@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "aktualisiert": "2026-11-10",
+  "aktualisiert": "2026-11-17",
   "werte": {
     "aufwand": [
       "schnell",
@@ -142,7 +142,7 @@
         "Knoblauch"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-20"
     },
     {
       "id": "risotto",
@@ -227,7 +227,7 @@
         "Käse"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-21"
     },
     {
       "id": "daetscher",
@@ -274,7 +274,7 @@
         "Gemüse nach Wahl"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-22"
     },
     {
       "id": "indisch-mit-erbsen-und-pilzen",
@@ -371,7 +371,7 @@
         "Suppengemüse"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-18"
     },
     {
       "id": "spaghetti-bolognese",
@@ -449,7 +449,7 @@
         "Apfelmus"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-19"
     },
     {
       "id": "dampfnudeln",
@@ -557,7 +557,7 @@
         "Brot"
       ],
       "notiz": null,
-      "zuletztGegessen": null
+      "zuletztGegessen": "2026-11-24"
     },
     {
       "id": "kaesesuppe",
