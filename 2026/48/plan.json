@@ -1,0 +1,216 @@
+{
+  "kw": 48,
+  "jahr": 2026,
+  "von": "2026-11-25",
+  "bis": "2026-12-01",
+  "erstellt": "2026-11-24",
+  "tage": [
+    {
+      "datum": "2026-11-25",
+      "tag": "Mi",
+      "wer": [
+        "Sascha"
+      ],
+      "rezeptId": "kaesesuppe",
+      "gericht": "Käsesuppe",
+      "reste": false,
+      "hinweis": "Doppelte Menge – Rest für Do; Mittwoch frei, kein Fleisch (Reste für Do)"
+    },
+    {
+      "datum": "2026-11-26",
+      "tag": "Do",
+      "wer": [
+        "Sascha"
+      ],
+      "rezeptId": "kaesesuppe",
+      "gericht": "Reste Käsesuppe",
+      "reste": true,
+      "hinweis": "Aufwärmen"
+    },
+    {
+      "datum": "2026-11-27",
+      "tag": "Fr",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "risotto",
+      "gericht": "Risotto",
+      "reste": false,
+      "hinweis": "Abends Racletteessen (Miri) – mittags leichter; Badetag Karla"
+    },
+    {
+      "datum": "2026-11-28",
+      "tag": "Sa",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "spinatstrudel-mit-getrockneten-tomaten-und-walnuessen",
+      "gericht": "Spinatstrudel mit getrockneten Tomaten und Walnüssen",
+      "reste": false,
+      "hinweis": "Neu (noch nie gegessen); 40. Tina laut Kalender ganztägig – Uhrzeit unklar"
+    },
+    {
+      "datum": "2026-11-29",
+      "tag": "So",
+      "wer": [
+        "Sascha",
+        "Anke"
+      ],
+      "rezeptId": "gemueselasagne",
+      "gericht": "Gemüselasagne",
+      "reste": false,
+      "hinweis": "Doppelte Menge – Rest für Mo"
+    },
+    {
+      "datum": "2026-11-30",
+      "tag": "Mo",
+      "wer": [
+        "Anke"
+      ],
+      "rezeptId": "gemueselasagne",
+      "gericht": "Reste Gemüselasagne",
+      "reste": true,
+      "hinweis": "Aufwärmen"
+    },
+    {
+      "datum": "2026-12-01",
+      "tag": "Di",
+      "wer": [
+        "Anke"
+      ],
+      "rezeptId": "couscous-mit-halloumi",
+      "gericht": "Couscous mit Halloumi",
+      "reste": false,
+      "hinweis": "Schnell, 1 Portion"
+    }
+  ],
+  "einkaufsliste": [
+    {
+      "artikel": "Lauch",
+      "menge": "2",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Zwiebeln",
+      "menge": "3",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Zucchini",
+      "menge": "3",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Paprika",
+      "menge": "3",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Karotten",
+      "menge": "3",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Zitrone",
+      "menge": "1",
+      "bereich": "Obst & Gemüse"
+    },
+    {
+      "artikel": "Schmelzkäse",
+      "menge": "2 Packungen",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Parmesan",
+      "menge": "1 Stück",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Butter",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Strudelteig",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Feta",
+      "menge": "200 g",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Eier",
+      "menge": "2",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Milch",
+      "menge": "500 ml",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Reibekäse",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Halloumi",
+      "menge": "1 Packung",
+      "bereich": "Kühlregal"
+    },
+    {
+      "artikel": "Blattspinat (TK)",
+      "menge": "450 g",
+      "bereich": "TK"
+    },
+    {
+      "artikel": "Risottoreis",
+      "menge": "200 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Weißwein",
+      "menge": "1 kleine Flasche",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Getrocknete Tomaten",
+      "menge": "1 Glas",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Walnüsse",
+      "menge": "50 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Lasagneplatten",
+      "menge": "1 Packung",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Passierte Tomaten",
+      "menge": "1 Packung",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Couscous",
+      "menge": "100 g",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Mehl",
+      "menge": "falls leer",
+      "bereich": "Trockenwaren & Konserven"
+    },
+    {
+      "artikel": "Brot",
+      "menge": "1 Brot",
+      "bereich": "Sonstiges"
+    }
+  ]
+}
